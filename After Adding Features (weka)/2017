@@ -1,0 +1,11 @@
+Import data report
+
+	Source file: C:\Users\dell\Desktop\Sumit\After Adding Features\fsi-2017_discretized.csv
+	Destination file: C:\Users\dell\Desktop\Sumit\After Adding Features\fsi-2017_discretized.Data.mdb
+	Destination table name: fsi_2017_discretized
+
+	Number of processed rows: 178
+	Number of imported rows: 178
+	Rows not imported due to errors: 0
+
+*** End of output
